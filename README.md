@@ -4,7 +4,7 @@ Following the official basic guide for Java and VS Code:
 https://code.visualstudio.com/docs/languages/java
 
 ## To setup Java for VS Code follow following steps:
-###Pre-requisite:
+### Pre-requisite:
 Download VS Code - If you haven't downloaded VS Code yet, quickly install for your platform (Windows, macOS, Linux).
 
 ### Install  Java Extension Pack,
